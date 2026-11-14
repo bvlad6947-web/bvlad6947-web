@@ -1,0 +1,261 @@
+{
+  "version": 1,
+  "login": "bvlad6947-web",
+  "seed": "#6D4129",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi i`m Mio, welcome to my profile.",
+    "name": "Mio chan",
+    "subtitle": "i`m a A.I. engineer",
+    "typing": true,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "psychology",
+        "label": "Next js,node js,bun js,numpy."
+      },
+      {
+        "icon": "palette",
+        "label": "python, js, java,html,css,typescript."
+      },
+      {
+        "icon": "school",
+        "label": "web amd ai"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "code",
+        "label": "Full stack developer"
+      },
+      {
+        "icon": "brush",
+        "label": "desigher"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:vuedotjs",
+            "label": "Vue"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "js"
+          },
+          {
+            "icon": "brand:github",
+            "label": " github"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "next js"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "tailween js"
+          },
+          {
+            "icon": "brand:swift",
+            "label": "swift"
+          },
+          {
+            "icon": "brand:css",
+            "label": "css"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "html"
+          },
+          {
+            "icon": "brand:vite",
+            "label": "vite"
+          },
+          {
+            "icon": "brand:go",
+            "label": "golang"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "docker"
+          },
+          {
+            "icon": "brand:php",
+            "label": "php"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "docker"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "linux"
+          },
+          {
+            "icon": "brand:x",
+            "label": "x"
+          },
+          {
+            "icon": "brand:blender",
+            "label": "blender"
+          },
+          {
+            "icon": "brand:twitch",
+            "label": "twitch"
+          },
+          {
+            "icon": "brand:flutter",
+            "label": "flutter"
+          },
+          {
+            "icon": "brand:tiktok",
+            "label": "tiktok"
+          },
+          {
+            "icon": "brand:youtube",
+            "label": "youtube"
+          },
+          {
+            "icon": "brand:steam",
+            "label": "steam"
+          },
+          {
+            "icon": "brand:vk",
+            "label": "wk"
+          },
+          {
+            "icon": "brand:telegram",
+            "label": "telegram"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {
+      "echo-bot": {
+        "icon": "psychology",
+        "shape": "clover",
+        "text": "свой ИИ"
+      },
+      "dotfiles": {
+        "text": "пока делаю"
+      },
+      "tiny-weather": {
+        "text": "хз"
+      },
+      "pixel-garden": {
+        "text": "хз"
+      }
+    },
+    "empty": "разрабатываю ИИ пока что.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
